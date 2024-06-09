@@ -1,4 +1,4 @@
-# Unsupervised-Learing-Clustering-Model-
+# Unsupervised-Learing-Clustering-Model
 ## 1. Bank Marketing Data Set 
 **Goal:** The objective is to analyze the Bank Marketing dataset, which contains information about direct marketing campaigns of a Portuguese banking institution. The aim is to understand the data and use clustering techniques to segment the customers based on their attributes and campaign responses. 
 
